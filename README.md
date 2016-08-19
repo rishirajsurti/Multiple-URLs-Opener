@@ -1,6 +1,6 @@
 # Mulitple-URL-opener
 Open multiple urls in dedicated windows at a click.
-This is a (Google Chrome Extension)[https://chrome.google.com/webstore/detail/multiple-urls-opener-open/blkhbljiefedpigaobdgpceamaopooim/reviews].
+This is a [Google Chrome Extension](https://chrome.google.com/webstore/detail/multiple-urls-opener-open/blkhbljiefedpigaobdgpceamaopooim/).
 
 To install it, first of all download this repo with the above 'Clone or Download' link. Unzip it. 
 Once ready, open Google Chrome, go to Settings, choose Extension Tab and click on the 'Load Unpacked Extenstion' button.
