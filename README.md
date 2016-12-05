@@ -14,3 +14,5 @@ To do so, just edit the 'index.js' file.
 A format has been provided to add new URLs. 
 
 Please feel free to contribute.  
+
+You can find the version of this extension which I use (along with the websites which I visit most frequently) [here](https://github.com/rishirajsurti/Multiple-URLs-Opener2).   
